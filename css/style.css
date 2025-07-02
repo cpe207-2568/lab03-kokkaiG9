@@ -1,0 +1,35 @@
+
+a{
+    font-size: 2rem;
+    text-decoration: none;
+    color: beige;
+}
+
+a:hover{
+    color: aqua;
+}
+
+
+.gg{
+    color: beige;
+    font-size: 2rem;
+    text-decoration: none;
+}
+
+.gg2{
+    color: darkblue;
+    font-size: 2rem;
+    text-decoration: none;
+}
+
+.libertinus-math-regular {
+    font-family: "Libertinus Math", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.box2 {
+    border: 2px solid darkblue;
+    width: 500px;
+    padding: 1rem;
+}
